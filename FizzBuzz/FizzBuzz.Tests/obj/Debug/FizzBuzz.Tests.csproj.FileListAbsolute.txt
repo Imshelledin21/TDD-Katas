@@ -1,0 +1,7 @@
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.csprojResolveAssemblyReference.cache
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.dll
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.pdb
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.exe
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.pdb
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.dll
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.pdb

@@ -1,0 +1,6 @@
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
