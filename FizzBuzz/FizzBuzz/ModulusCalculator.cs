@@ -1,10 +1,10 @@
 ﻿namespace FizzBuzz {
     public class ModulusCalculator {
-        public bool IsModulusOfThree(int number) {
+        public bool IsMultipleOfThree(int number) {
             return number % 3 == 0;
         }
 
-        public bool IsModulusOfFive(int number) {
+        public bool IsMultipleOfFive(int number) {
             return number % 5 == 0;
         }
     }

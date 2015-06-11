@@ -12,7 +12,7 @@ namespace FizzBuzz {
             int number;
             do {
                 number = GenerateRandomNumber();
-            } while (Modulus.IsModulusOfFive(number) || Modulus.IsModulusOfThree(number));
+            } while (Modulus.IsMultipleOfFive(number) || Modulus.IsMultipleOfThree(number));
             return number;
         }
 

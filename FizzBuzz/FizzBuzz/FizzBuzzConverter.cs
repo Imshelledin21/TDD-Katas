@@ -11,10 +11,10 @@ namespace FizzBuzz {
         public string Transform(int number) {
             string output = String.Empty;
 
-            if (Modulus.IsModulusOfThree(number)) {
+            if (Modulus.IsMultipleOfThree(number)) {
                 output += "Fizz";
             }
-            if (Modulus.IsModulusOfFive(number)) {
+            if (Modulus.IsMultipleOfFive(number)) {
                 output += "Buzz";
             }
             if (String.IsNullOrEmpty(output)) {

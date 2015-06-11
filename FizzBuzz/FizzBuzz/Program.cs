@@ -10,7 +10,7 @@ namespace FizzBuzz {
 
             var converter = new FizzBuzzConverter(modulus);
 
-            for (int i = startingNumber; i <= startingNumber + 100; i++) {
+            for (int i = startingNumber; i <= startingNumber + 1000; i++) {
                 Console.WriteLine(converter.Transform(i));
             }
 

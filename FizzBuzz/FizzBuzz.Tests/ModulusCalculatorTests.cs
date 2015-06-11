@@ -6,38 +6,50 @@ namespace FizzBuzz.Tests {
 
         [TestMethod]
         public void CalculateModulusOfThree_When0_ReturnsTrue() {
+            //Arrange
             var sut = new ModulusCalculator();
 
-            var result = sut.IsModulusOfThree(3);
+            //Act
+            var result = sut.IsMultipleOfThree(3);
 
+            //Assert
             Assert.IsTrue(result);
         }
 
 
         [TestMethod]
         public void CalculateModulusOfThree_WhenNot0_ReturnsFalse() {
+            //Arrange
             var sut = new ModulusCalculator();
 
-            var result = sut.IsModulusOfThree(2);
+            //Act
+            var result = sut.IsMultipleOfThree(2);
 
+            //Assert
             Assert.IsFalse(result);
         }
 
         [TestMethod]
         public void CalculateModulusOfFive_When0_ReturnsTrue() {
+            //Arrange
             var sut = new ModulusCalculator();
 
-            var result = sut.IsModulusOfFive(5);
+            //Act
+            var result = sut.IsMultipleOfFive(5);
 
+            //Assert
             Assert.IsTrue(result);
         }
 
         [TestMethod]
         public void CalculateModulusOfFive_WhenNot0_ReturnsFalse() {
+            //Arrange
             var sut = new ModulusCalculator();
 
-            var result = sut.IsModulusOfFive(4);
+            //Act
+            var result = sut.IsMultipleOfFive(4);
 
+            //Assert
             Assert.IsFalse(result);
         }
     }
