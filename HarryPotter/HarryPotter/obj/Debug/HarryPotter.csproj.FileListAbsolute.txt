@@ -1,1 +1,6 @@
 C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\HarryPotter\HarryPotter\bin\Debug\HarryPotter.exe.config
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\HarryPotter\HarryPotter\bin\Debug\HarryPotter.exe
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\HarryPotter\HarryPotter\bin\Debug\HarryPotter.pdb
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\HarryPotter\HarryPotter\obj\Debug\HarryPotter.csprojResolveAssemblyReference.cache
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\HarryPotter\HarryPotter\obj\Debug\HarryPotter.exe
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\HarryPotter\HarryPotter\obj\Debug\HarryPotter.pdb

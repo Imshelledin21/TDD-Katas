@@ -41,6 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BookModel.cs" />
+    <Compile Include="Cart.cs" />
+    <Compile Include="DiscountModel.cs" />
+    <Compile Include="PriceCalculator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

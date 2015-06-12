@@ -1,0 +1,7 @@
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\HarryPotter\HarryPotter.Tests\bin\Debug\HarryPotter.Tests.dll
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\HarryPotter\HarryPotter.Tests\bin\Debug\HarryPotter.Tests.pdb
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\HarryPotter\HarryPotter.Tests\bin\Debug\HarryPotter.exe
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\HarryPotter\HarryPotter.Tests\bin\Debug\HarryPotter.pdb
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\HarryPotter\HarryPotter.Tests\obj\Debug\HarryPotter.Tests.csprojResolveAssemblyReference.cache
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\HarryPotter\HarryPotter.Tests\obj\Debug\HarryPotter.Tests.dll
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\HarryPotter\HarryPotter.Tests\obj\Debug\HarryPotter.Tests.pdb
