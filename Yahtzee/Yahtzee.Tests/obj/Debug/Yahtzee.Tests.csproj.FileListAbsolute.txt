@@ -1,0 +1,7 @@
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\Yahtzee\Yahtzee.Tests\obj\Debug\Yahtzee.Tests.csprojResolveAssemblyReference.cache
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\Yahtzee\Yahtzee.Tests\bin\Debug\Yahtzee.Tests.dll
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\Yahtzee\Yahtzee.Tests\bin\Debug\Yahtzee.Tests.pdb
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\Yahtzee\Yahtzee.Tests\bin\Debug\Yahtzee.exe
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\Yahtzee\Yahtzee.Tests\bin\Debug\Yahtzee.pdb
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\Yahtzee\Yahtzee.Tests\obj\Debug\Yahtzee.Tests.dll
+C:\Users\sheldon.jackson\Documents\GitHub\TDD-Katas\Yahtzee\Yahtzee.Tests\obj\Debug\Yahtzee.Tests.pdb
